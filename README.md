@@ -8,8 +8,6 @@ Uygulamanın Vercel üzerinde yayınlanan canlı demosuna aşağıdaki linkten e
 
 https://film-kutuphanesi-five.vercel.app/
 
-📸 Ekran Görüntüsü
-(Bu bölümü projenizin anasayfasından aldığınız bir ekran görüntüsü ile güncelleyin. anasayfa.png gibi bir dosyayı projenize ekleyip aşağıdaki satırı düzenleyebilirsiniz.)
 
 ✨ Temel Özellikler
 Estetik Arayüz: Siyah'tan Pembe'ye (Synthwave) geçişli, modern ve duyarlı (responsive) tasarım.
